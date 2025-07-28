@@ -40,13 +40,22 @@ Visit in your browser :-
 
 📁 Project Structure
 bookstore/
+
 ├── admin.php
+
 ├── book.php
+
 ├── books.php
+
 ├── cart.php
+
 ├── functions/
+
 ├── models/
+
 ├── template/
+
 ├── bootstrap/
+
 └── bookstoredb.sql
 
